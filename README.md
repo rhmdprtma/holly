@@ -9,8 +9,6 @@ Halaman ini **bukan** aplikasi Android yang diubah jadi web dan **tidak** menjal
 Buka lewat browser:
 https://tamayana.github.io/holly/
 
-> Ganti `tamayana` dan `holly` sesuai repo lu.
-
 ### ✨ Yang Bisa Dilakukan Di Sini
 
 - **Galeri Media** - Lihat langsung gambar, video, dan audio tanpa download
@@ -37,28 +35,27 @@ APK / file arsip Android **hanya bisa jalan di HP Android**, tidak bisa di iPhon
 3. Izinkan **Install dari sumber tidak dikenal** kalau diminta
 4. Pencet **Install**
 
-### 📂 Struktur Arsip
-HollyUpdate/
-├── index.html              # Halaman katalog ini
-├── README.md               # File ini
-├── AndroidManifest.xml     # Manifest Android
-├── classes.dex             # Kode utama Android
-├── classes2.dex / classes3.dex / classes4.dex
-├── resources.arsc          # Resource Android
-├── assets/
-│   └── flutter_assets/
-│       ├── assets/
-│       │   ├── audio/      # d.mp3, k.mp3, dll
-│       │   ├── images/     # banner.jpg, logo.png, qris.jpg, dll
-│       │   ├── verified/   # foto.jpg - foto4.jpg
-│       │   └── videos/     # splash.mp4, bug.mp4, dll
-│       └── fonts/          # Astral.ttf, Bangers-Regular.ttf, dll
-├── lib/
-│   ├── arm64-v8a/         # libflutter.so, libapp.so, dll
-│   ├── armeabi-v7a/
-│   └── x86_64/
-├── META-INF/
-└── res/                    # Resource drawable / layout Android
+📂 Struktur Arsip
+
+ •  HollyUpdate/
+	 ○  index.html - Halaman katalog
+	 ○  README.md - File ini
+	 ○  AndroidManifest.xml - Manifest Android
+	 ○  classes.dex - Kode utama Android
+	 ○  classes2.dex / classes3.dex / classes4.dex
+	 ○  resources.arsc - Resource Android
+	 ○  assets / flutter_assets /
+	 	 ■  assets / audio / - d.mp3, k.mp3, dll
+	 	 ■  assets / images / - banner.jpg, logo.png, qris.jpg, dll
+	 	 ■  assets / verified / - foto.jpg - foto4.jpg
+	 	 ■  assets / videos / - splash.mp4, bug.mp4, dll
+	 	 ■  fonts / - Astral.ttf, Bangers-Regular.ttf, dll
+	 ○  lib /
+	 	 ■  arm64-v8a / - libflutter.so, libapp.so, dll
+	 	 ■  armeabi-v7a /
+	 	 ■  x86_64 /
+	 ○  META-INF /
+	 ○  res / - Resource drawable / layout Android
 
 
 ### 🛠️ Cara Pakai Secara Lokal
