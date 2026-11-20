@@ -75,5 +75,3 @@ Kalau file-nya kepisah folder-nya, preview gambar / video-nya gak bakal muncul.
 
 ---
 Dibuat untuk penelusuran lokal - HollyUpdate Archive Index
-~~~
-
