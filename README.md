@@ -1,4 +1,3 @@
-~~~markdown
 HollyUpdate — Archive Index
 
 Indeks berkas untuk arsip aplikasi Android berbasis Flutter.
@@ -8,9 +7,7 @@ Halaman ini *bukan* aplikasi Android yang diubah jadi web dan *tidak* menjalanka
 🔗 Demo (GitHub Pages)
 
 Buka lewat browser:
-`https://username-kamu.github.io/nama-repo-kamu/`
-
-> Ganti username-kamu dan nama-repo-kamu sesuai repo lu.
+`https://tamayana.github.io/holly/`
 
 ✨ Yang Bisa Dilakukan Di Sini
 
